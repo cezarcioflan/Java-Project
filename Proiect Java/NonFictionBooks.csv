@@ -1,0 +1,2 @@
+NonFictionBooks{bookName='The history of time', pageNumber=450, coverType='Paperback', language='English', authorName='Mihai Eminescu', characters=[Andrei, Anca, Alex], includedThemes=[History, Art], personalities=[DaVinci, Elon Musk]}
+NonFictionBooks{bookName='Artistic coding', pageNumber=460, coverType='Hard cover', language='English', authorName='Stoian Anca', characters=[Cezar, Stefan, Alex], includedThemes=[Computer Science, Art], personalities=[Bill Gates, Steve Jobs]}

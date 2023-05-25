@@ -1,0 +1,2 @@
+SFBooks{bookName='Space adventure', pageNumber=250, coverType='Hard cover', language='English', authorName='Cioflan Cezar', characters=[Anca, Vlad, Rebecca], alienSpecies=[Predator, Xenomorph], planetNames=[Mars, Pluto]}
+SFBooks{bookName='The three body problem', pageNumber=350, coverType='Paperback', language='English', authorName='Rares Atat', characters=[Andrei, Vlad, Ciprian], alienSpecies=[Predator, Alien2], planetNames=[Venus, Jupiter]}

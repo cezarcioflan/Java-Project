@@ -1,0 +1,2 @@
+FantasyBooks{bookName='Circe', pageNumber=200, coverType='Hard cover', language='English', authorName='George', characters=[Circe, Poseidon, Hermes], regions=[Greek Mythology, Antic Heroes], creatures=[Hydra, Pigs]}
+FantasyBooks{bookName='Night Circus', pageNumber=500, coverType='Paper back', language='English', authorName='Stoian Anca', characters=[Celia, Marco, Alexander], regions=[Magic, Circus], creatures=[Ephemeral Birds, Ephemeral Dogs]}

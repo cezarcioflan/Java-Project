@@ -1,0 +1,2 @@
+Employees{firstName='Ionel', lastName='Marian', email='ionelmarian@gmail.com', birthDate='14.01.1999', role='Librarian', salary=3500, rank=3}
+Employees{firstName='Cornel', lastName='Gigel', email='cornelgigel@gmail.com', birthDate='12.05.1997', role='Manager', salary=4250, rank=2}
